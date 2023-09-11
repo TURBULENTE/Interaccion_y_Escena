@@ -6,5 +6,5 @@ Documentación en castellano: https://docs.github.com/es/get-started/quickstart/
 https://docs.github.com/es/get-started/quickstart/create-a-repo
 - [x] Markdown 
 Referencia de sintaxis https://www.markdownguide.org/cheat-sheet/
-- [x] 
-- [x] 
+- [x] Licencias aplicables
+https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
