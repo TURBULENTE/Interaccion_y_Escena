@@ -4,3 +4,4 @@
 - [x] Lenguaje de programación y sintaxis https://www.arduino.cc/reference/en/
 - [x] Arduino UNO Documentación, Pinout, etc. https://docs.arduino.cc/hardware/uno-rev3
 - [x] Wiki de Keyestudio https://wiki.keyestudio.com/Main_Page
+
