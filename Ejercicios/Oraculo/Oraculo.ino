@@ -5,7 +5,7 @@
     Customiza el oráculo añadiendo Strings compuestos y amplando las posibilidades.
     Añade secuencias de luces a modo de indicadores interactivos.
     Añade a la respuesta del oráculo dos números de la suerte: uno entero y uno
-    Documenta el ejercicio en Github. Comparte las ideas y reflexiones que surjan de manera colectiva. */
+    Documenta el ejercicio en Github. Comparte nuevas ideas y reflexiones que surjan con el ejercicio. */
 
 String s1 = "El pasado es un libro abierto, el futuro un misterio por descubrir";
 String s2 = "Las respuestas están dentro de ti, solo necesitas buscarlas.";
@@ -21,12 +21,14 @@ int numSuerte;
 void setup() {
   Serial.begin(9600);
   pinMode(13, OUTPUT);
-  Serial.println("Pregúntame algo.");
+  if(Serial){
+  Serial.println("Hazme una pregunta.");
+}
 }
 
 void loop() {
 
-  if (Serial.available() > 0) {
+  if (Serial.available() > 0) { // la función serial.available lee información del puerto serial
     miPregunta = Serial.readStringUntil('\n');
     Serial.print("Tu pregunta es: ");
     Serial.println(miPregunta);
@@ -34,7 +36,7 @@ void loop() {
 
     valRandom = random(0, 3);
     numSuerte = random(0, 30);
-    
+
     if (valRandom == 0) {
       Serial.println(s1);
       Serial.println(numero + numSuerte);
