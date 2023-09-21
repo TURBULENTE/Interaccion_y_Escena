@@ -1,10 +1,11 @@
+
 // EJERCICIO: ORÁCULO. Por Citlali Hernández - 2023
 /* Vamos a utilizar la comunicación Serial para crear un oráculo.
     Utilizaremos y manipularemos distintos tipos de datos: int, float, String
-    Aplicaremos random y condicionales definir las respuestas obtenidas.
-    Customiza el oráculo añadiendo Strings compuestos y amplando las posibilidades.
+    Aplicaremos random y condicionales para definir las respuestas obtenidas.
+    Customiza el oráculo añadiendo con tantos Strings y posibilidades de respuestas quieras.
     Añade secuencias de luces a modo de indicadores interactivos.
-    Añade a la respuesta del oráculo dos números de la suerte: uno entero y uno
+    Añade a la respuesta del oráculo dos números de la suerte: uno entero y uno con decimales
     Documenta el ejercicio en Github. Comparte nuevas ideas y reflexiones que surjan con el ejercicio. */
 
 String s1 = "El pasado es un libro abierto, el futuro un misterio por descubrir";
