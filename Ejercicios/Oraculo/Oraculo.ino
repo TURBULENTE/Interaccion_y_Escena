@@ -11,61 +11,66 @@
 String s1 = "El pasado es un libro abierto, el futuro un misterio por descubrir";
 String s2 = "Las respuestas están dentro de ti, solo necesitas buscarlas.";
 String s3 = "La sabiduría se encuentra en la quietud del alma.";
-String numero = "Tu número de la suerte es: ";
+String numero = "Tus números de la suerte son: ";
 String miPregunta;
 int valRandom;
 int r = 5;
 int v = 6;
 int a = 7;
 int numSuerte;
+float numSuerteF;
+
 
 void setup() {
   Serial.begin(9600);
   pinMode(13, OUTPUT);
-  if(Serial){
-  Serial.println("Hazme una pregunta.");
-}
+  if (Serial) {                                           // Comprobamos que el Monitor Serial está abierto
+    Serial.println("¡Hola humano! Hazme una pregunta.");  // Imprimimos el texto
+  }
 }
 
 void loop() {
 
-  if (Serial.available() > 0) { // la función serial.available lee información del puerto serial
-    miPregunta = Serial.readStringUntil('\n');
+  if (Serial.available() > 0) {                 // la función serial.available lee información del puerto serial
+    miPregunta = Serial.readStringUntil('\n');  // "\n" - nueva línea, "\r" - Retorno al inicio,
     Serial.print("Tu pregunta es: ");
     Serial.println(miPregunta);
-    delay(500);
+    delay(2000);
 
+    // Tiramos un "dado" para conseguir un número aleatorio entre 0 y 2.
     valRandom = random(0, 3);
-    numSuerte = random(0, 30);
 
     if (valRandom == 0) {
       Serial.println(s1);
-      Serial.println(numero + numSuerte);
       digitalWrite(r, HIGH);
       digitalWrite(v, LOW);
       digitalWrite(a, LOW);
       delay(1000);
       digitalWrite(r, LOW);
-    }
-
-    if (valRandom == 1) {
+    } else if (valRandom == 1) {
       Serial.println(s2);
-      Serial.println(numero + numSuerte);
       digitalWrite(r, LOW);
       digitalWrite(v, HIGH);
       digitalWrite(a, LOW);
       delay(1000);
       digitalWrite(v, LOW);
-    }
-
-    if (valRandom == 2) {
+    } else if (valRandom == 2) {
       Serial.println(s3);
-      Serial.println(numero + numSuerte);
       digitalWrite(r, LOW);
       digitalWrite(v, LOW);
       digitalWrite(a, HIGH);
       delay(1000);
       digitalWrite(a, LOW);
     }
+    delay(1500);  // añadimos un poco de tiempo de espera
+    // Tiramos un "dado" para conseguir un número aleatorio de la suerte en un rango entre 0 y 32.
+    numSuerte = random(0, 32);
+    // Tiramos un "dado" para conseguir un número aleatorio de la suerte en un rango entre 0 y 32.
+    numSuerteF = random(0, 11) * 0.1;
+    Serial.println(numero);
+    Serial.println(numSuerte);
+    Serial.println(numSuerteF);
+    delay(1500);
+    Serial.println(" -------- ¿Cuál es tu siguiente pregunta?.");
   }
 }
