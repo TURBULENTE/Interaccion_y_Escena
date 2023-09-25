@@ -14,9 +14,9 @@ String s3 = "La sabiduría se encuentra en la quietud del alma.";
 String numero = "Tus números de la suerte son: ";
 String miPregunta;
 int valRandom;
-int r = 5;
-int v = 6;
-int a = 7;
+int r = 5; // led rojo en el pin 5
+int v = 6; // led verde en el pin 6
+int a = 7; // led amarillo en el pin 7
 int numSuerte;
 float numSuerteF;
 
@@ -68,8 +68,8 @@ void loop() {
     // Tiramos un "dado" para conseguir un número aleatorio de la suerte en un rango entre 0 y 32.
     numSuerteF = random(0, 11) * 0.1;
     Serial.println(numero);
-    Serial.println(numSuerte);
-    Serial.println(numSuerteF);
+    Serial.println(numSuerte); // Imprimimos un número de la suerte entero
+    Serial.println(numSuerteF); // Imprimimos un número de la suerte con decimales
     delay(1500);
     Serial.println(" -------- ¿Cuál es tu siguiente pregunta?.");
   }
