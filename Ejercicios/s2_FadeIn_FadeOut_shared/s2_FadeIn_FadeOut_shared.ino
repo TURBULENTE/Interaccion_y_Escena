@@ -28,7 +28,7 @@ void loop() {
   // La siguiente operación es un codicional que comprueba si unas condiciones se cumplen.
   // Si el brillo es menor o igual a 0 , ó el brillo es mayor o igual que 255. Entonces haz unas instrucciones.
   if (brillo0 <= 0 || brillo0 >= 255) {  //Añadimos el operador lógico "||" que significa "Or".
-    fadeCount = -fadeCount;              // Silas condiciones se cumplen, convierte el vlor de fadeCount a negativo.
+    fadeCount = -fadeCount;              // Si las condiciones se cumplen, convierte el valor de fadeCount a negativo.
   }
 
   // Para corroborar qué valor del brillo tenemos ,imprimimos la siguiente información:
