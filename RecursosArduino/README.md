@@ -32,6 +32,11 @@ https://www.youtube.com/watch?v=zcUj1Xqemlw
 - [x]  Conectar y Programar un botón: https://docs.arduino.cc/built-in-examples/digital/Button
 - [x]  Conectar y Programar un LED: https://arduinogetstarted.com/tutorials/arduino-led-blink
 - [X]  Presionar un botón y encender un LED: https://arduinogetstarted.com/tutorials/arduino-button-led
+
+##Sensores DIY
+- [x] Switch: https://www.kobakant.at/DIY/?p=8906
+- [x] Sensor de presión: https://www.kobakant.at/DIY/?p=65
+- [x] Sensor Capacitivo: https://www.bareconductive.com/blogs/resources/make-a-basic-capacitive-sensor-with-electric-paint-and-arduino      
       
 
 
