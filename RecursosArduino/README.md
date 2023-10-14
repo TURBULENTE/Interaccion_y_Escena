@@ -27,8 +27,13 @@ https://www.youtube.com/watch?v=OdHzRbR0xHQ
 https://www.arduino.cc/reference/en/language/variables/data-types/array/
 https://www.youtube.com/watch?v=zcUj1Xqemlw
 
-## Ejercicios 
+## Ejercicios externos
 - [x]  Light Theremin https://www.youtube.com/watch?v=WLLiiyWKxs8&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd&index=4
+- [x]  Conectar y Programar un botón: https://docs.arduino.cc/built-in-examples/digital/Button
+- [x]  Conectar y Programar un LED: https://arduinogetstarted.com/tutorials/arduino-led-blink
+- [X]  Presionar un botón y encender un LED: https://arduinogetstarted.com/tutorials/arduino-button-led
+      
+
 
 
 
