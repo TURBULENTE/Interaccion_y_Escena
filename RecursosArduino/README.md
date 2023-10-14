@@ -16,7 +16,7 @@
 ## Programación
 
 ### Variables y Tipos de Datos
-- [x] https://docs.arduino.cc/learn/programming/variables
+- [x] Variables: https://docs.arduino.cc/learn/programming/variables
 - [x] Variables locales vs. variables globales: https://www.youtube.com/watch?v=8mbyebZwHFc
 
 ### Estructuras de Control
