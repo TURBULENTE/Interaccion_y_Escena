@@ -27,16 +27,19 @@ https://www.youtube.com/watch?v=OdHzRbR0xHQ
 https://www.arduino.cc/reference/en/language/variables/data-types/array/
 https://www.youtube.com/watch?v=zcUj1Xqemlw
 
+## Sensores DIY
+- [x] Switch: https://www.kobakant.at/DIY/?p=8906
+- [x] Sensor de presión: https://www.kobakant.at/DIY/?p=65
+- [x] Sensor Capacitivo: https://www.bareconductive.com/blogs/resources/make-a-basic-capacitive-sensor-with-electric-paint-and-arduino
+      
+
 ## Ejercicios externos
 - [x]  Light Theremin https://www.youtube.com/watch?v=WLLiiyWKxs8&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd&index=4
 - [x]  Conectar y Programar un botón: https://docs.arduino.cc/built-in-examples/digital/Button
 - [x]  Conectar y Programar un LED: https://arduinogetstarted.com/tutorials/arduino-led-blink
 - [X]  Presionar un botón y encender un LED: https://arduinogetstarted.com/tutorials/arduino-button-led
 
-##Sensores DIY
-- [x] Switch: https://www.kobakant.at/DIY/?p=8906
-- [x] Sensor de presión: https://www.kobakant.at/DIY/?p=65
-- [x] Sensor Capacitivo: https://www.bareconductive.com/blogs/resources/make-a-basic-capacitive-sensor-with-electric-paint-and-arduino      
+   
       
 
 
