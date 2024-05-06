@@ -74,7 +74,7 @@ void loop() {
 
 void sendingOSC(float val) {
   OSCMessage msg("/test");
-  //msg.add("hello, osc.");
+  //msg.add("hello, osc."); // you can send different data types as messages
   msg.add(val);
   Udp.beginPacket(outIp, outPort);
   msg.send(Udp);
