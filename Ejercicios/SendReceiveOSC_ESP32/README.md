@@ -25,7 +25,8 @@ El nombre de las placas en Arduino IDE son: WEMOS Lolin 32 Lite
 - Cambiar en número de IP correspondiente a la ESP que recibe
 - Cargar el programa
  
+
 #IMPORTANTE
 - En ambos casos, el modelo en la IDE es Wemos Lolin 32 Lite.
 - Cambiar la velocidad a 115200
-
+- Asegurarse que todos los dispositivos estén conectados a la misma red
