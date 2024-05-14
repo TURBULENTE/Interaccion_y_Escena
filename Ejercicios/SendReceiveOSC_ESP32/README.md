@@ -5,11 +5,7 @@
 - Instrucciones de Espressif: https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
 - Usar la development release: https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
 
-
-3. Instalar ESP32 Espressif - BOARDS MANAGER
-
-El nombre de las placas en Arduino IDE son: WEMOS Lolin 32 Lite
-
+2. Instalar ESP32 Espressif - BOARDS MANAGER
 
 # Ejemplo 1 -  ESP sends to Processing
 - Abrir ejemplo Sending ONE OSC Message
@@ -26,7 +22,7 @@ El nombre de las placas en Arduino IDE son: WEMOS Lolin 32 Lite
 - Cargar el programa
  
 
-#IMPORTANTE
-- En ambos casos, el modelo en la IDE es Wemos Lolin 32 Lite.
+# IMPORTANTE
+- En ambos casos, el modelo en la IDE es #Wemos Lolin 32 Lite.
 - Cambiar la velocidad a 115200
 - Asegurarse que todos los dispositivos estén conectados a la misma red
