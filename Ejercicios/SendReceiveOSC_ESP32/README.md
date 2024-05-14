@@ -2,10 +2,11 @@
 #ESP32 One Message Send and Receive between two ESP32 boards
 
 1. Instalar ESP32 en las preferencias de Arduino.
-Instrucciones de Espressif: https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html  Usar la development release: https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
+- Instrucciones de Espressif: https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
+- Usar la development release: https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
 
 
-2. Instalar ESP32 Espressif - BOARDS MANAGER
+3. Instalar ESP32 Espressif - BOARDS MANAGER
 
 El nombre de las placas en Arduino IDE son: WEMOS Lolin 32 Lite
 
