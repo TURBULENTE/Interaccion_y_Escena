@@ -1,6 +1,7 @@
 
 #ESP32 One Message Send and Receive between two ESP32 boards
 
+# CONFIGURACIÓN EN ARDUINO IDE
 1. Instalar ESP32 en las preferencias de Arduino.
 - Instrucciones de Espressif: https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
 - Usar la development release: https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
@@ -22,7 +23,7 @@
 - Cargar el programa
  
 
-# IMPORTANTE
+#IMPORTANTE
 - En ambos casos, el modelo en la IDE es #Wemos Lolin 32 Lite.
 - Cambiar la velocidad a 115200
 - Asegurarse que todos los dispositivos estén conectados a la misma red
