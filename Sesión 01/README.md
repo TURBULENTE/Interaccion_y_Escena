@@ -17,3 +17,11 @@ Sintaxis (ampliada) : https://www.markdownguide.org/basic-syntax/
 - [x] Licencias aplicables
 https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 
+# Hello Arduino
+
+Arduino es una placa PCB que contiene un microcontrolador que nos permite crear y programar circuitos electrónicos. Existen varios modelos, y la manera de conectar y alimentar nuestros circuitos dependerá de ello. 
+Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las páginas de referencia. 
+
+- Arduino UNO: (https://docs.arduino.cc/hardware/uno-rev3/)
+- Arduino UNO R3: (https://docs.arduino.cc/hardware/uno-rev3/)
+- Arduino WIFI: (https://docs.arduino.cc/hardware/uno-r4-wifi/)
