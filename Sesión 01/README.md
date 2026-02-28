@@ -25,3 +25,4 @@ Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las pág
 - Arduino UNO: (https://docs.arduino.cc/hardware/uno-rev3/)
 - Arduino UNO R3: (https://docs.arduino.cc/hardware/uno-rev3/)
 - Arduino WIFI: (https://docs.arduino.cc/hardware/uno-r4-wifi/)
+
