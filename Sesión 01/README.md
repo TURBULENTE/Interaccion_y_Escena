@@ -8,6 +8,13 @@ Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las pág
 - Arduino WIFI: (https://docs.arduino.cc/hardware/uno-r4-wifi/)
 
 
+## Ejercicios
+1. Creamos nuestro primer circuito con un led
+2. Comunicación Serial, Hello World!
+3. Programar un led - digitalWrite
+4. Secuencias de leds y funciones - delay, digitalWrite, void
+5. Creamos el circuito de un botón
+
 ## Programación
 
 ### Variables y Tipos de Datos
