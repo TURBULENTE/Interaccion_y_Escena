@@ -11,10 +11,10 @@ Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las pág
 ## Ejercicios
 1. Creamos nuestro primer circuito con un led
 2. Comunicación Serial, Hello World!
-3. Programar un led - digitalWrite
+3. [Programar un led](https://github.com/TURBULENTE/Interaccion_y_Escena/tree/main/Sesi%C3%B3n%2001/00-LED-DigitalWrite) - digitalWrite
 4. [Secuencias de leds y funciones](https://github.com/TURBULENTE/Interaccion_y_Escena/tree/main/Sesi%C3%B3n%2001/00-Boton-Secuencias-Led) - delay, digitalWrite, void
 5. Creamos el circuito de un botón
-6. Lectura digial de un botón - digitalRead
+6. [Lectura digital de un botón](https://github.com/TURBULENTE/Interaccion_y_Escena/tree/main/Sesi%C3%B3n%2001/00-DigitalReadBoton) - digitalRead
 
 ## Programación
 
