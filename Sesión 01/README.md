@@ -16,9 +16,7 @@ En materiales conductores, como los metales, algunos electrones tienen libertad 
 
 Para que los electrones fluyan, debe existir una ruta. Específicamente, el circuito debe ir desde la fuente de carga negativa, atravesar el conductor y regresar a la fuente de carga positiva. Un ejemplo de esto es una bombilla, una batería, un interruptor y un cable. Si se cierra el interruptor, el circuito se completa y el terminal negativo de la batería repele los electrones (como se repelen las cargas iguales) y los envía a través del cable hasta la bombilla. Como resultado, la bombilla se enciende y los electrones continúan fluyendo de vuelta al terminal positivo. Cuando el interruptor está abierto, el circuito no está completo y la electricidad no fluye por los cables.
 
-
-
-[![Texto alternativo](https://img.youtube.com/vi/x4pdzG-DHnY&t=78s/0.jpg)](https://www.youtube.com/watch?v=x4pdzG-DHnY&t=78s)
+[![Texto alternativo](https://img.youtube.com/vi/x4pdzG-DHnY/0.jpg)](https://www.youtube.com/watch?v=x4pdzG-DHnY&t=78s)
 
 - LED
 - Resisten
