@@ -15,6 +15,7 @@ Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las pág
 4. [Secuencias de leds y funciones](https://github.com/TURBULENTE/Interaccion_y_Escena/tree/main/Sesi%C3%B3n%2001/00-Boton-Secuencias-Led) - delay, digitalWrite, void
 5. Creamos el circuito de un botón
 6. [Lectura digital de un botón](https://github.com/TURBULENTE/Interaccion_y_Escena/tree/main/Sesi%C3%B3n%2001/00-DigitalReadBoton) - digitalRead
+7. Ejercicio Extra - Serial.print y Tipos de Datos
 
 ## Programación
 
