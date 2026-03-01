@@ -22,3 +22,7 @@ Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las pág
 ### Variables y Tipos de Datos
 - [x] Variables: https://docs.arduino.cc/learn/programming/variables
 - [x] Variables locales vs. variables globales: https://www.youtube.com/watch?v=8mbyebZwHFc
+
+## Recursos Extra
+- [x]  Conectar y Programar un botón: https://docs.arduino.cc/built-in-examples/digital/Button
+- [x]  Conectar y Programar un LED: https://arduinogetstarted.com/tutorials/arduino-led-blink
