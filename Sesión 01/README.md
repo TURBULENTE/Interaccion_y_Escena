@@ -40,7 +40,7 @@ Para que los electrones fluyan, debe existir una ruta. Específicamente, el circ
 
 [![Texto alternativo](https://img.youtube.com/vi/x4pdzG-DHnY/0.jpg)](https://www.youtube.com/watch?v=x4pdzG-DHnY&t=78s)
 
-En esta asignatura utilizaremos una placa de circuitos impresa llamada Arduino UNO que funcionará como nuestra fuente de alimentación para los componentes que conectaremos a ella. El circuito funcionará a 5V.
+En esta asignatura utilizaremos una placa de circuitos impresa llamada Arduino UNO que funcionará como nuestra fuente de alimentación para los componentes que conectaremos a ella. El circuito funcionará a 5V a 20mA.
 
 
 
