@@ -1,16 +1,3 @@
-# Hello Electrónica
-
-**¿Cómo fluye la electricidad?**
-
-La electricidad es el flujo de carga eléctrica, lo que significa el movimiento de electrones a través de un material conductor. Estos electrones se mueven de zonas de **carga negativa** a zonas de **carga positiva**, creando una corriente eléctrica.
-
-**Circuitos**
-
-Para que los electrones fluyan, debe existir una ruta. Específicamente, el circuito debe ir desde la fuente de carga negativa, atravesar el conductor y regresar a la fuente de carga positiva. Un ejemplo de esto es una bombilla, una batería, un interruptor y un cable. Si se cierra el interruptor, el circuito se completa y el terminal negativo de la batería repele los electrones (como se repelen las cargas iguales) y los envía a través del cable hasta la bombilla. Como resultado, la bombilla se enciende y los electrones continúan fluyendo de vuelta al terminal positivo. Cuando el interruptor está abierto, el circuito no está completo y la electricidad no fluye por los cables.
-
-[![Texto alternativo](https://img.youtube.com/vi/x4pdzG-DHnY/0.jpg)](https://www.youtube.com/watch?v=x4pdzG-DHnY&t=78s)
-
-En esta asignatura utilizaremos una placa de circuitos impresa llamada Arduino UNO que funcionará como nuestra fuente de alimentación para los componentes que conectaremos a ella. El circuito funcionará a 5V.
 
 # Hello Arduino
 
@@ -40,4 +27,21 @@ Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las pág
 ## Recursos Extra
 - [x]  Conectar y Programar un LED: https://arduinogetstarted.com/tutorials/arduino-led-blink
 - [x]  Conectar y Programar un botón: https://docs.arduino.cc/built-in-examples/digital/Button
+
+## Hello Electrónica
+
+**¿Cómo fluye la electricidad?**
+
+La electricidad es el flujo de carga eléctrica, lo que significa el movimiento de electrones a través de un material conductor. Estos electrones se mueven de zonas de **carga negativa** a zonas de **carga positiva**, creando una corriente eléctrica.
+
+**Circuitos**
+
+Para que los electrones fluyan, debe existir una ruta. Específicamente, el circuito debe ir desde la fuente de carga negativa, atravesar el conductor y regresar a la fuente de carga positiva. Un ejemplo de esto es una bombilla, una batería, un interruptor y un cable. Si se cierra el interruptor, el circuito se completa y el terminal negativo de la batería repele los electrones (como se repelen las cargas iguales) y los envía a través del cable hasta la bombilla. Como resultado, la bombilla se enciende y los electrones continúan fluyendo de vuelta al terminal positivo. Cuando el interruptor está abierto, el circuito no está completo y la electricidad no fluye por los cables.
+
+[![Texto alternativo](https://img.youtube.com/vi/x4pdzG-DHnY/0.jpg)](https://www.youtube.com/watch?v=x4pdzG-DHnY&t=78s)
+
+En esta asignatura utilizaremos una placa de circuitos impresa llamada Arduino UNO que funcionará como nuestra fuente de alimentación para los componentes que conectaremos a ella. El circuito funcionará a 5V.
+
+
+
 
