@@ -14,6 +14,7 @@ Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las pág
 3. Programar un led - digitalWrite
 4. Secuencias de leds y funciones - delay, digitalWrite, void
 5. Creamos el circuito de un botón
+6. Lectura digial de un botón - digitalRead
 
 ## Programación
 
