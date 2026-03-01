@@ -1,18 +1,22 @@
 # Hello Electricidad
 
 **¿Cómo fluye la electricidad?**
+
 La electricidad es el flujo de carga eléctrica, lo que significa el movimiento de electrones a través de un material conductor. Estos electrones se mueven de zonas de **carga negativa** a zonas de **carga positiva**, creando una corriente eléctrica.
 
 **Polaridad:**
+
 Existen dos tipos de polos en la electricidad: uno positivo (+ cátodo) y uno negativo (- ánodo). Algunos componentes eléctricos tienen requisitos de polaridad específicos. Por ejemplo, un LED solo se encenderá si la polaridad de la fuente de alimentación está correctamente conectada. En cambio, algunos motores no requieren una dirección de corriente específica y se alimentarán independientemente de cómo se conecten. En cambio, la forma en que se conecten cambiará la dirección de giro del motor.
 
 **Materiales y electrones**
+
 En materiales conductores, como los metales, algunos electrones tienen libertad de movimiento. Estos electrones no están ligados a ningún átomo en particular y pueden desplazarse de un átomo a otro. Al aplicar un voltaje, o diferencia de potencial, a través del conductor, se crea un campo eléctrico. Este campo ejerce una fuerza sobre estos electrones libres, impulsándolos a través del conductor. Este flujo de electrones es lo que llamamos electricidad.
 
 **Circuitos**
+
 Para que los electrones fluyan, debe existir una ruta. Específicamente, el circuito debe ir desde la fuente de carga negativa, atravesar el conductor y regresar a la fuente de carga positiva. Un ejemplo de esto es una bombilla, una batería, un interruptor y un cable. Si se cierra el interruptor, el circuito se completa y el terminal negativo de la batería repele los electrones (como se repelen las cargas iguales) y los envía a través del cable hasta la bombilla. Como resultado, la bombilla se enciende y los electrones continúan fluyendo de vuelta al terminal positivo. Cuando el interruptor está abierto, el circuito no está completo y la electricidad no fluye por los cables.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x4pdzG-DHnY?si=iouH8fhrPJxSwj4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=x4pdzG-DHnY&t=78s)
 
 - LED
 - Resisten
