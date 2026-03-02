@@ -47,6 +47,10 @@ https://docs.arduino.cc/tutorials/uno-r4-wifi/r4-wifi-getting-started/
 - [x] Si no aparece el puerto, habrá que actualizar el firmware de la placa, siguiendo estas instrucciones:
 https://support.arduino.cc/hc/en-us/articles/9670986058780-Update-the-connectivity-module-firmware-on-UNO-R4-WiFi
 
+### Bibliografía
+- [x] [Getting Started with Arduino, by Masimo Banzi](https://dn790006.ca.archive.org/0/items/MassimoBanziGettingStartedWithArduinoMake2011/Massimo%20Banzi-Getting%20Started%20with%20Arduino%20-Make%20%282011%29.pdf) 
+
+
 
 
 
