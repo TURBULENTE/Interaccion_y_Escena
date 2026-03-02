@@ -1,22 +1,17 @@
 # Interacción y Escena
-Material didáctico para la clase de "Interacción y Escena" del  Institut del Teatre.
+¡Hola! En este repositorio encontrarés el material didáctico para la clase de "Interacción y Escena" del  Institut del Teatre.
 Prof. Citlali Hernández 🤖
 
-Clases:
+Clases: 2023-2024, 2024-2025, 2025-2026
 
-2023-2024
-
-2024-2025
-
-2025-2026
-
----
 ![d4_670](https://github.com/TURBULENTE/Interaccion_y_Escena/assets/19651027/76d00599-e8d2-4fb9-bec6-6478c981b2e0)
-
 
 ヾ(*´ ∇ `)ﾉ
 
-# Crear un repositorio
+## Este repositorio
+En cada carpeta "Sesión" encontrarés las presentaciones y ejercicios de clase. 
+
+## Crear un repositorio
 
 Durante este módulo, haremos varios ejercicios de electrónica y programación. Deberéis crearos un repositorio en Github para poder documentar vuestros ejercicios y resultados. Podéis considerar vuestro repositorio como si se tratase de un cuaderno de notas en el que podréis añadir los códigos que habéis probado, así como fotos de vuestro proceso. 
 
@@ -24,7 +19,7 @@ El trabajo de cada sesión deberá estar organizado en carpetas individuales.
 
 Aquí algunos pasos y recursos útiles:
 
-## Hola Github.
+### Hola Github.
 - [x] ¿Cómo funciona Github?
 Documentación en castellano: https://docs.github.com/es/get-started/quickstart/hello-world
 - [x] Crear un Repositorio
@@ -36,7 +31,7 @@ Sintaxis (ampliada) : https://www.markdownguide.org/basic-syntax/
 https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 
 
-## Recursos y tutoriales de Arduino
+### Recursos y tutoriales de Arduino
 
 - [x] Web oficial https://www.arduino.cc/
 - [x] Lenguaje de programación y sintaxis https://www.arduino.cc/reference/en/
