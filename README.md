@@ -13,7 +13,7 @@ En cada carpeta "Sesión" encontrarés las presentaciones y ejercicios de clase.
 
 ## Crear un repositorio
 
-Haremos varios ejercicios de electrónica y programación. Os sugerimos crear un repositorio en Github para poder documentar vuestros ejercicios y resultados. Podéis considerar vuestro repositorio como si se tratase de un cuaderno de notas en el que podréis añadir los códigos que habéis probado, así como fotos de vuestro proceso. 
+Os sugerimos crear un repositorio en Github para poder documentar vuestros ejercicios y resultados de electrónica y programación. Podéis considerar vuestro repositorio como si se tratase de un cuaderno de notas en el que podréis añadir los códigos que habéis probado, así como fotos de vuestro proceso. 
 
 Podési crear una carpeta por cada sesión, y el ejercicio final del módulo se deberá presentar mediante vuestro link al repositorio. 
 
