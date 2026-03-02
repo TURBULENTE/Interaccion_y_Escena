@@ -18,7 +18,7 @@ Clases:
 
 # Crear un repositorio
 
-Durante este módulo, haremos varios ejercicios de electrónica y programación. Deberéis crearos un repositorio en Github para poder documentar vuestros ejercicios y resultados. Tomad en cuenta este espacio como si se tratase de un cuaderno de notas en el que podréis añadir también fotografías de vuestros circuitos y los códigos que habéis probado.
+Durante este módulo, haremos varios ejercicios de electrónica y programación. Deberéis crearos un repositorio en Github para poder documentar vuestros ejercicios y resultados. Podéis considerar vuestro repositorio como si se tratase de un cuaderno de notas en el que podréis añadir los códigos que habéis probado, así como fotos de vuestro proceso. 
 
 El trabajo de cada sesión deberá estar organizado en carpetas individuales.
 
