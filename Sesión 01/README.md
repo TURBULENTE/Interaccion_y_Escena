@@ -1,6 +1,10 @@
 
 # Hello Arduino
 
+Aquí tenéis las presentaciones de clase:
+1. [Parte I - Introducción](https://e.pcloud.link/publink/show?code=XZQR63ZSG5gQft18GhCnBi73c5DJkTlPVXX)
+2. [Parte II - Electrónica](https://e.pcloud.link/publink/show?code=XZ1R63ZqOHmmCdO7W0uc4gEEj9psFf0U6Wk)
+
 Arduino es una placa PCB que contiene un microcontrolador que nos permite crear y programar circuitos electrónicos. Existen varios modelos, y la manera de conectar y alimentar nuestros circuitos dependerá de ello. 
 Podéis consultar el DATASHEET y el PINOUT del modelo que utilizáis en las páginas de referencia. 
 
