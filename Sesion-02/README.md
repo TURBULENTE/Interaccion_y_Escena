@@ -2,11 +2,9 @@
 
 Presentación de Clase : [Aquí](https://e.pcloud.link/publink/show?code=XZ5qo3Zct86Bs0g7ij4kw90nNgCX0csKrYk)
 
-Uno de los principios en la computación física es la Transducción o la conversión de una forma de energía en otra. Los transductores son los elementos principales de un sistema de computación física.
--Input Transducers
--Output Transducers
+Uno de los principios en la computación física es la Transducción o la conversión de una forma de energía en otra. Los transductores son los elementos principales de un sistema de computación física. Existen los Input Transducers (entrada) y los Outputs Transducers (salida). 
 
-Cuando conectamos un sensor, normalmente estamos transformando una acción física o comportamiento del entorno en una señal de electricidad. Posteriormente, nuestro microcontrolador transforma esa variación eléctrica en una señal digital. 
+Cuando conectamos un sensor, normalmente estamos transformando una acción física o comportamiento del entorno en electricidad. Posteriormente, nuestro microcontrolador transforma esa variación eléctrica en una señal digital. 
 
 Para poder leer los sensores tenemos que identificar si se trata de un sensor de **lectura digital o analógica**. Tenemos que buscar información sobre el sensor, comúnmente en su DATASHEET. Algunos sensores requieren de LIBRERÍAS específicas para poder acceder a sus valores.
 
@@ -53,6 +51,44 @@ Existen sensores capacitivos fabricados como el siguiente módulo de Adafruit:
 </a>
 
 En la clase construiremos un sensor capacitivo DIY utilizando un material conductivo y la librería "Capacitive Sensor" de Paul Badger. 
+
+
+## Otros Sensores
+
+En el IT tenemos sensores disponibles para conectarse a placas ARDUINO, así como los específicos del KIT de Keyestudio (Cajitas Verdes). Del kit, podéis consultar cuáles hay en este [link oficial de la marca](https://wiki.keyestudio.com/Ks0398_keyestudio_EASY_plug_Ultimate_Starter_Kit_for_Arduino_STEM_EDU).  
+En el Kit de Keyestudio encontraréis: 
+-  Módulo LDR (Fotoresistencia)
+-  Sensor de Humedad
+-  Sensor de Gas
+-  Sensor de luz ambiental
+-  Slider
+-  Capacitive Touch Sensor Module
+-  Knock Sensor
+-  Sensor de fuego
+-  Sensor de prescencia PIR
+-  Sensor de temperatura
+-  Sensor Infrarojo
+-  Joystick
+-  Sensor de distancia (ultrasónico)
+
+Sensores para placas Arduino:
+- Módulos LDR
+- Sensores de persión
+- Piezoeléctricos
+- Sensor de Proximidad HC-SR04
+- Sensor Magnético Hall (digital)
+- Sensor de presencia PIR
+- Sensor de puso cardiaco
+- Botones
+
+
+**Deberes**
+- El proyecto final se realizará en parejas. Compartid vuestra idea con unx compañerox y explorad juntxs cómo fusionar vuestras inquietudes en un único proyecto. Revisad los sensores disponibles en el IT y decidid qué información del entorno queréis capturar como entrada de vuestro sistema interactivo.
+
+
+
+
+
 
 
 
