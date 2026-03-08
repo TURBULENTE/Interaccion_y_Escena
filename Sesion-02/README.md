@@ -82,7 +82,7 @@ Sensores para placas Arduino:
 - Botones
 
 
-**Deberes**
+## **Deberes**
 - El proyecto final se realizará en parejas. Compartid vuestra idea con unx compañerox y explorad juntxs cómo fusionar vuestras inquietudes en un único proyecto. Revisad los sensores disponibles en el IT y decidid qué información del entorno queréis capturar como entrada de vuestro sistema interactivo.
 
 
