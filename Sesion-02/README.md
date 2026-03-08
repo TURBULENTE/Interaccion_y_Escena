@@ -1,4 +1,4 @@
-<img width="956" height="956" alt="image" src="https://github.com/user-attachments/assets/400ec46f-c72b-4dc9-a0cb-2a6210913f66" /># Inputs y Rangos
+# Inputs y Rangos
 
 Presentación de Clase : [Aquí](https://e.pcloud.link/publink/show?code=XZ5qo3Zct86Bs0g7ij4kw90nNgCX0csKrYk)
 
