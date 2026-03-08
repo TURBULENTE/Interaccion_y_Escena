@@ -30,7 +30,10 @@ Un sensor analógico no dará un valor dentro del rango: 0 a 1023.
 
 4) Sensor LDR
 - Conectar el módulo LDR. Este sensor ya viene integrado en una placa PCB junto con componentes que estabilizan su señal. 
-https://www.institutodigital.com.br/produto/modulo-sensor-ldr-de-luminosidade-foto-resistor/<img width="250" alt="image" src="https://github.com/user-attachments/assets/1ae84c01-6c13-41e1-a82b-de94a23310db" />
+<a href="https://www.institutodigital.com.br/produto/modulo-sensor-ldr-de-luminosidade-foto-resistor/">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/1ae84c01-6c13-41e1-a82b-de94a23310db" />
+</a>
+
 - Hacer la lectura analógica del sensor, con el comando analogRead();
 - Analizar el rango con máxima y mínima intensidad de luz.
 
