@@ -30,7 +30,7 @@ Un sensor analógico no dará un valor dentro del rango: 0 a 1023.
 
 4) Sensor LDR
 - Conectar el módulo LDR. Este sensor ya viene integrado en una placa PCB junto con componentes que estabilizan su señal. 
-https://www.institutodigital.com.br/produto/modulo-sensor-ldr-de-luminosidade-foto-resistor/<img width="300" alt="image" src="https://github.com/user-attachments/assets/1ae84c01-6c13-41e1-a82b-de94a23310db" />
+https://www.institutodigital.com.br/produto/modulo-sensor-ldr-de-luminosidade-foto-resistor/<img width="250" alt="image" src="https://github.com/user-attachments/assets/1ae84c01-6c13-41e1-a82b-de94a23310db" />
 - Hacer la lectura analógica del sensor, con el comando analogRead();
 - Analizar el rango con máxima y mínima intensidad de luz.
 
@@ -38,7 +38,7 @@ https://www.institutodigital.com.br/produto/modulo-sensor-ldr-de-luminosidade-fo
 Un sensor capacitivo de tipo touch sensor detecta la presencia del cuerpo humano aprovechando sus propiedades eléctricas. Cuando nos acercamos o tocamos el sensor, nuestro cuerpo actúa como una segunda placa de un capacitor, alterando el campo eléctrico del sensor y modificando su capacitancia. Es este cambio en la capacitancia lo que el circuito detecta y registra como una variación en la medición.
 
 Existen sensores capacitivos fabricados como el siguiente módulo de Adafruit:
-- https://cdn-shop.adafruit.com/970x728/1374-09.jpg<img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/92d7f8f1-d368-4dd9-a666-334c2405a00f" />
+- https://cdn-shop.adafruit.com/970x728/1374-09.jpg<img width="250" alt="image" src="https://github.com/user-attachments/assets/92d7f8f1-d368-4dd9-a666-334c2405a00f" />
 
 - O el siguiente módulo del KIT
 En la clase construiremos un sensor capacitivo DIY utilizando un material conductivo y la librería "Capacitive Sensor" de Paul Badger. 
