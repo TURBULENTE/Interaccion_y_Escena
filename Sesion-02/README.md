@@ -51,8 +51,3 @@ En la clase construiremos un sensor capacitivo DIY utilizando un material conduc
 
 
 
-
-Para construir un sensor capacitivo DIY
-
-
-
