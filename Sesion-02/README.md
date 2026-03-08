@@ -11,7 +11,7 @@ Para poder leer los sensores tenemos que identificar si se trata de un sensor de
 Un sensor digital nos dará el valor entero: 0 ò 1
 Un sensor analógico no dará un valor dentro del rango: 0 a 1023.
 
-## **Actividades de clase: **
+## Actividades de clase:
 
 1) Botón DIY
 - Construir el circuito de un Botón con cinta de cobre.
