@@ -38,11 +38,13 @@ https://www.institutodigital.com.br/produto/modulo-sensor-ldr-de-luminosidade-fo
 Un sensor capacitivo de tipo touch sensor detecta la presencia del cuerpo humano aprovechando sus propiedades eléctricas. Cuando nos acercamos o tocamos el sensor, nuestro cuerpo actúa como una segunda placa de un capacitor, alterando el campo eléctrico del sensor y modificando su capacitancia. Es este cambio en la capacitancia lo que el circuito detecta y registra como una variación en la medición.
 
 Existen sensores capacitivos fabricados como el siguiente módulo de Adafruit:
+
 <a href="https://www.adafruit.com/product/1375">
   <img src="https://cdn-shop.adafruit.com/970x728/1374-09.jpg" width="250" alt="Sensor"/>
 </a>
 
 - O el siguiente módulo del KIT:
+
 <a href="https://wiki.keyestudio.com/Ks0398_keyestudio_EASY_plug_Ultimate_Starter_Kit_for_Arduino_STEM_EDU#capacitive-touch">
   <img width="230" alt="image" src="https://github.com/user-attachments/assets/6d2bd80a-50b4-4a3c-971c-f2f40d49f872" />
 </a>
