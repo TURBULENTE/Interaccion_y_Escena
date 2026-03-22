@@ -18,6 +18,7 @@ A tomar en cuenta cuando compramos una nueva tira:
 
 Librerías recomendadas:
 [Adafruit Neopixel](https://github.com/adafruit/Adafruit_NeoPixel)
+
 [FastLed](https://github.com/FastLED/FastLED)
 
 Ejercicios:
