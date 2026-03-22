@@ -2,7 +2,7 @@
 [Presentación de clase](https://e.pcloud.link/publink/show?code=XZ8kMGZvdlddFfvMl4LB0bw49ba5bzXI9xX)
 
 ## Ejercicios de programación
-- [ ] [Aleatoriedad](.../Sesion-04/03-Aleatoriedad)
+- [ ] [Aleatoriedad](03-Aleatoriedad)
 - [ ] [Ciclo For](Sesion-04/03-cicloFor)
 
 ## Tiras LED
