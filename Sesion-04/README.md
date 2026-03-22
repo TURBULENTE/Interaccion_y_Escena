@@ -17,7 +17,8 @@ A tomar en cuenta cuando compramos una nueva tira:
 - Circuito recomendado. A veces se recomienda añadir una resitencia y una capacitor. 
 
 Librerías recomendadas:
-[Adafruit Neopixel](https://github.com/adafruit/Adafruit_NeoPixel)
+
+[Adafruit Neopixel](https://github.com/adafruit/Adafruit_NeoPixel) (La que usamos en clase)
 
 [FastLed](https://github.com/FastLED/FastLED)
 
