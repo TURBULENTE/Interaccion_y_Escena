@@ -1,5 +1,5 @@
 # Interacción y Escena
-¡Hola! En este repositorio encontrarés el material didáctico para la clase de "Interacción y Escena" del  Institut del Teatre.
+¡Hola! Este es elrepositorio de la clase de "Interacción y Escena" del Institut del Teatre.
 Prof. Citlali Hernández 🤖
 
 Clases: 2023-2024, 2024-2025, 2025-2026
