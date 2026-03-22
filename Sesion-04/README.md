@@ -3,7 +3,7 @@
 
 ## Ejercicios de programación
 - [ ] [Aleatoriedad](03-Aleatoriedad)
-- [ ] [Ciclo For](Sesion-04/03-cicloFor)
+- [ ] [Ciclo For](03-cicloFor)
 
 ## Tiras LED
 Las tiras led indexables nos permiten enviar información de manera independiente a cada uno de los leds, o también llamados píxeles.
@@ -23,15 +23,15 @@ Librerías recomendadas:
 [FastLed](https://github.com/FastLED/FastLED)
 
 Ejercicios:
-- [ ] [Hola Neopixels - Aleatoriedad](Sesion-04/03-HolaNeopixels-Aleatoriedad)
-- [ ] [El coche fantástico](Sesion-04/03-Neopixel-Coche-Fantastico) 
+- [ ] [Hola Neopixels - Aleatoriedad](03-HolaNeopixels-Aleatoriedad)
+- [ ] [El coche fantástico](03-Neopixel-Coche-Fantastico) 
 
 ## Motores DC
 Los motores DC nos permiten regular tanto dirección como velocidad de movimiento. 
 Para poder controlarlo, necesitaremos de un driver que utiliza el chip L298N. La base de su funcionamiento es conocido como “Puente H” que se encarga de invertir la polaridad del motor, reflejándose esto en la dirección del movimiento.
 
-- [ ] [Direcciones](Sesion-04/03-DCMotor_Direcciones)
-- [ ] [Aceleración](Sesion-04/03_DC_Aceleracion)
+- [ ] [Direcciones](03-DCMotor_Direcciones)
+- [ ] [Aceleración](03_DC_Aceleracion)
 
 
 
