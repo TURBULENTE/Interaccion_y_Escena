@@ -19,12 +19,14 @@
 - Por ejemplo, en un sistema donde hay un micrófono, una interfaz se audio, una laptop y un software de procesamiento de audio:
 <img width="1272" height="329" alt="Captura de pantalla 2026-03-28 a las 13 35 29" src="https://github.com/user-attachments/assets/7626dfe7-dcbc-4016-98a3-4a26cc059006" />
 
+## Ejercicio:
+1. Utiliza el lenguaje visual de Marije Baalman para dejar registro de tu miniproyecto. Dibuja tanto la conceptualización de la interacción, como la implementación física.
+2. Toma una foto de tus diagramas y súbelos a tu repositorio. 
 
-## Ejemplos de clase: 
+---
 
-### Motores Stepper
-- Referencia Oficial de Arduino [Stepper Motors](https://docs.arduino.cc/learn/electronics/stepper-motors/)
-- Referencia Luis Llamas - [Motor 28ByJ-48](https://www.luisllamas.es/motor-paso-paso-28byj-48-arduino-driver-uln2003/)
+## Últimos ejemplos de clase, complementarios: 
+
 ### Comunicación OSC
 
 #### Ejercicio Enviar-Recibir
@@ -36,5 +38,10 @@ Enviamos los datos a través de un mensaje OSC
 **Arduino B) [*Receiver*](/sesion-05/04-OSC-Receive-ArduinoUNOR4Wifi.ino)**
 Tenemos una tira led de 8 píxeles conectada.
 Mapearemos el valor recibido del potenciómetro (0-1023), al número de píxeles de la tira para que se enciendan uno en uno de acuerdo a la rotación del potenciómetro. 
+
+
+### Motores Stepper
+- Referencia Oficial de Arduino [Stepper Motors](https://docs.arduino.cc/learn/electronics/stepper-motors/)
+- Referencia Luis Llamas - [Motor 28ByJ-48](https://www.luisllamas.es/motor-paso-paso-28byj-48-arduino-driver-uln2003/)
 
 
