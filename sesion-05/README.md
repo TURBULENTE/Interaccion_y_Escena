@@ -44,7 +44,8 @@ Un motor paso a paso es un tipo especial de motor de corriente continua sin esco
 El principio de funcionamiento de un motor paso a paso se basa en los campos magnéticos. Consta de dos componentes principales: un estator y un rotor. El rotor suele ser un imán permanente y está rodeado por unas bobinas situadas en el estator.
 
 <img width="400" alt="Stepper-Motor-main-components-stator-and-a-rotor" src="https://github.com/user-attachments/assets/a0c2b8c9-19bf-4f7a-9347-cdd37db1177c" />
-Imagen: [How to Mecatronics](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/)
+Imagen:
+[How to Mecatronics](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/)
 
 En el IT tenemos dos modelos de stepper motors, el 28BYJ-48 y Nemas 17. Para poder programarlos, requeriremos de un driver que nos permita controlar las bobinas internas del motor. 
 - Referencia Oficial de Arduino [Stepper Motors](https://docs.arduino.cc/learn/electronics/stepper-motors/)
