@@ -42,7 +42,6 @@ Mapearemos el valor recibido del potenciómetro (0-1023), al número de píxeles
 ### Motores Stepper
 Un motor paso a paso es un tipo especial de motor de corriente continua sin escobillas (brushless) cuya posición puede controlarse con precisión.
 El principio de funcionamiento de un motor paso a paso se basa en los campos magnéticos. Consta de dos componentes principales: un estator y un rotor. El rotor suele ser un imán permanente y está rodeado por unas bobinas situadas en el estator.
-
 <img width="400" alt="Stepper-Motor-main-components-stator-and-a-rotor" src="https://github.com/user-attachments/assets/a0c2b8c9-19bf-4f7a-9347-cdd37db1177c" />
 
 Imagen:
