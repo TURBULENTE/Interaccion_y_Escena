@@ -1,13 +1,23 @@
 # Integrar Inputs y Ouputs en un solo proyecto
 
 ## Conceptualizar una interacción
-- Para poder conceptualizar nuestras interfaces podemos hacer uso del lenguaje visual propuesto por Marije Baalman en su sitio web: [https://composinginteractions.art/](https://composinginteractions.art/)
-- Primero, definiremos de manera general nuestras acciones, y feedback esperado. Paara ello definiremos, quién, con qué, acción, y efecto. Usamos los siguientes códigos visuales:
+- Para poder conceptualizar nuestras interfaces podemos hacer uso del lenguaje visual propuesto por Marije Baalman en su sitio web: [https://composinginteractions.art/](https://composinginteractions.art/) Las siguientes imágenes corresponden a referencias en su libro Composing Interactions. 
+
+- **Primero**, definiremos de manera general nuestras acciones, y feedback esperado. Para ello definiremos, quién, con qué, acción, y efecto. Usamos los siguientes códigos visuales:
  <img width="1298" height="386" alt="Captura de pantalla 2026-03-28 a las 13 28 33" src="https://github.com/user-attachments/assets/c7215b01-51eb-4521-8f88-1bb732c688a8" />
 -  Por ejemplo, si pensamos en la acción de tocar un chelo, podríamos explicar la interacción de esta manera: 
 <img width="1442" height="645" alt="concept-example" src="https://github.com/user-attachments/assets/9c96b2a0-c96c-453d-96cc-5c922c439cef" />
 
-- Después, definiremos los componentes técnicos del sistema. Ejemplo:
+- **Segundo**, definiremos la implementación técnica de nuestro sistema. Usaremos los siguientes códigos visuales para definir el objeto, qué tipo de hardware, software, y tipo de conexiones.
+  
+  <img width="1206" height="367" alt="Captura de pantalla 2026-03-28 a las 13 33 31" src="https://github.com/user-attachments/assets/5a86380f-3e48-41cc-87a7-a3cfd91b9d71" />
+- Definiremos también cómo se conecta cada elemento, pudiendo ser en una dirección, dos direcciones, por cable, conexión inalámbrica, o interna por software. Para ello usamos el siguiente lenguaje visual:
+<img width="976" height="651" alt="Captura de pantalla 2026-03-28 a las 13 33 50" src="https://github.com/user-attachments/assets/4d1e1676-4aca-4f63-8c36-85b68ddd568e" />
+- También podemos especificar el tipo de señales enviadas:
+ <img width="1232" height="192" alt="Captura de pantalla 2026-03-28 a las 13 35 21" src="https://github.com/user-attachments/assets/91b2d4d2-dd45-454b-a80e-c9faa4840db7" />
+
+- Por ejemplo, en un sistema donde hay un micrófono, una interfaz se audio, una laptop y un software de procesamiento de audio:
+<img width="1272" height="329" alt="Captura de pantalla 2026-03-28 a las 13 35 29" src="https://github.com/user-attachments/assets/7626dfe7-dcbc-4016-98a3-4a26cc059006" />
 
 
 ## Ejemplos de clase: 
