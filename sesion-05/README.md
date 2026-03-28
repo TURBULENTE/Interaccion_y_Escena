@@ -15,12 +15,11 @@
 
 #### Ejercicio Enviar-Recibir
 
-Arduino A) [*Sender*](/sesion-05/04-OSC-Receive-ArduinoUNOR4Wifi.ino)
-
+**Arduino A) [*Sender*](/sesion-05/04-OSC-Send-ArduinoUNOR4Wifi)**
 Tenemos un potenciómetro conectado y hacemos lectura analógica
 Enviamos los datos a través de un mensaje OSC
 
-Arduino B) *Receiver*
+**Arduino B) [*Receiver*](/sesion-05/04-OSC-Receive-ArduinoUNOR4Wifi.ino)**
 Tenemos una tira led de 8 píxeles conectada.
 Mapearemos el valor recibido del potenciómetro (0-1023), al número de píxeles de la tira para que se enciendan uno en uno de acuerdo a la rotación del potenciómetro. 
 
