@@ -48,7 +48,13 @@ Imagen:
 [How to Mechatronics](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/)
 
 En el IT tenemos dos modelos de stepper motors, el 28BYJ-48 y Nemas 17. Para poder programarlos, requeriremos de un driver que nos permita controlar las bobinas internas del motor. 
+
+En nuestro motor 28BYJ-48 iremos activando una fase a la vez para lograr el avance de nuestro motor:
+![arduino-motor-paso-paso-secuencia-1-fase](https://github.com/user-attachments/assets/db2a6883-32ef-48e3-9d64-50985952f7a8)
+
+Referencias útiles:
 - Referencia Oficial de Arduino [Stepper Motors](https://docs.arduino.cc/learn/electronics/stepper-motors/)
 - Referencia Luis Llamas - [Motor 28ByJ-48](https://www.luisllamas.es/motor-paso-paso-28byj-48-arduino-driver-uln2003/)
+- Referencia How To Mechatronics - [Nema 17](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/)
 
 
