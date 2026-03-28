@@ -39,8 +39,14 @@ Enviamos los datos a través de un mensaje OSC
 Tenemos una tira led de 8 píxeles conectada.
 Mapearemos el valor recibido del potenciómetro (0-1023), al número de píxeles de la tira para que se enciendan uno en uno de acuerdo a la rotación del potenciómetro. 
 
-
 ### Motores Stepper
+Un motor paso a paso es un tipo especial de motor de corriente continua sin escobillas (brushless) cuya posición puede controlarse con precisión.
+El principio de funcionamiento de un motor paso a paso se basa en los campos magnéticos. Consta de dos componentes principales: un estator y un rotor. El rotor suele ser un imán permanente y está rodeado por unas bobinas situadas en el estator.
+
+<img width="1200" height="738" alt="Stepper-Motor-main-components-stator-and-a-rotor" src="https://github.com/user-attachments/assets/a0c2b8c9-19bf-4f7a-9347-cdd37db1177c" /> Imagen: [How to Mecatronics](https://howtomechatronics.com/tutorials/arduino/stepper-motors-and-arduino-the-ultimate-guide/)
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
+
 - Referencia Oficial de Arduino [Stepper Motors](https://docs.arduino.cc/learn/electronics/stepper-motors/)
 - Referencia Luis Llamas - [Motor 28ByJ-48](https://www.luisllamas.es/motor-paso-paso-28byj-48-arduino-driver-uln2003/)
 
