@@ -1,7 +1,9 @@
 # Integrar Inputs y Ouputs en un solo proyecto
 
 ## Conceptualizar una interacción
-- Un algoritmo es como una receta 
+- Para poder conceptualizar nuestras interfaces podemos hacer uso del lenguaje visual propuesto por Marije Baalman en su sitio web: [https://composinginteractions.art/](https://composinginteractions.art/)
+- 
+-  tanto las instrucciones de nuestro sistema, como las acciones de nuestrx usuarix, el feedback y componentes necesarios 
 
 
 
