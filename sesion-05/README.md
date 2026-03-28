@@ -15,7 +15,7 @@
 
 #### Ejercicio Enviar-Recibir
 
-Arduino A) [*Sender*](4-OSC-Receive-ArduinoUNOR4Wifi.ino)
+Arduino A) [*Sender*](/sesion-05/04-OSC-Receive-ArduinoUNOR4Wifi.ino)
 
 Tenemos un potenciómetro conectado y hacemos lectura analógica
 Enviamos los datos a través de un mensaje OSC
