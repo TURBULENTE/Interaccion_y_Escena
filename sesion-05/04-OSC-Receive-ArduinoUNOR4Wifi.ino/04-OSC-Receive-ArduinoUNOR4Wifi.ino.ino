@@ -12,8 +12,8 @@ Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
 #include <ArduinoOSCWiFi.h>
 
-const char* ssid = "whiteRabbit";      // el nombre de neustra señal Wifi
-const char* pwd = "goodlife";          //password de la wifi
+const char* ssid = "_nombre_wifi_";      // el nombre de neustra señal Wifi
+const char* pwd = "_password_wifi_";          //password de la wifi
 const IPAddress ip(192, 168, 8, 101);  // IP que asignamos a esta Arduino WiFi
 const int recv_port = 9000;            // el puerto por donde escuchar
 int potPix;
