@@ -7,8 +7,8 @@ del Postgrau en Escena i Tecnologia Digital, 2026*/
 
 #include <ArduinoOSCWiFi.h>  // Incluimos la librería ArduinoOSC
 
-const char* ssid = "whiteRabbit";      // el nombre de neustra señal Wifi
-const char* pwd = "goodlife";          //password de la wifi
+const char* ssid = "__nombre_Wifi__";      // el nombre de neustra señal Wifi
+const char* pwd = "__password_wifi__";          //password de la wifi 
 const IPAddress ip(192, 168, 8, 100);  // IP que asignamos a esta Arduino WiFi
 
 const char* dest_ip = "192.168.8.101";  // IP del receptor
